@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979844651950",
+    "project_id": "movilfinal-5931b",
+    "storage_bucket": "movilfinal-5931b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979844651950:android:0809f0bc80b88ce75f063f",
+        "android_client_info": {
+          "package_name": "dev.hcartagena.cartagena19200163ef2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979844651950-fn21kb3fqv3ebugjb278an0bv7pngqun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf6JftzHGmie8uu5u9QVFe4cN04rmE4Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979844651950-fn21kb3fqv3ebugjb278an0bv7pngqun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

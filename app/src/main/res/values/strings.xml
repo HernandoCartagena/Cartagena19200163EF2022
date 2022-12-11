@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cartagena19200163EF2022</string>
+    <string name="txtuser">user</string>
+    <string name="txtemail">email</string>
+    <string name="txtpassword">password</string>
+    <string name="btnlogin">Login</string>
+</resources>
